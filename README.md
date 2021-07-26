@@ -9,7 +9,7 @@ You should put your own fonts.ttf files inside **./Fonts/** folder and set fonts
 
 Below is an quick example including [Times Fonts](https://cs.fit.edu/code/projects/ndworld/repository/revisions/10/show/Resources/Fonts) in the template.
 
-```
+```latex
 \usepackage{fontspec}
 \setmainfont[
 Path = ./Fonts/,
