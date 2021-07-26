@@ -1,7 +1,7 @@
 # Marq_Phd_Dissertation_Template
 This is the repository of Marquette MSSC PhD Dissertation Latex Template. 
 
-# Notice
+# Before start
 XeLaTex compiler should be used for this template.
 
 # Fonts setup
