@@ -2,7 +2,7 @@
 This is the repository of Marquette University MSSC PhD Dissertation Latex Template. 
 
 # Before start
-XeLaTex compiler should be used for this template.
+**XeLaTex** compiler should be used for this template.
 
 # Fonts setup
 You should put your own fonts.ttf files inside **./Fonts/** folder and set fonts in **main.tex** in order to make everything works.
