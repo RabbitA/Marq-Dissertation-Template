@@ -1,4 +1,4 @@
-# Marq_Phd_Dissertation_Template
+# Marq Phd Dissertation LaTex Template
 This is the repository of Marquette MSSC PhD Dissertation Latex Template. 
 
 # Before start
