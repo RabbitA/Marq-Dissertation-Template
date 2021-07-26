@@ -1,5 +1,5 @@
 # Marq Phd Dissertation LaTex Template
-This is the repository of Marquette MSSC PhD Dissertation Latex Template. 
+This is the repository of Marquette University MSSC PhD Dissertation Latex Template. 
 
 # Before start
 XeLaTex compiler should be used for this template.
